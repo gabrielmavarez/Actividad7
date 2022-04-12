@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    scroll-behavior: smooth;
+}
+
+.bg-image {
+    text-align: center;
+    padding: 10px;
+    color: white;
+    width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.dark {
+    background-color: #28242c;
+    color: white;
+}
